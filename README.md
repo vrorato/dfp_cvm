@@ -14,7 +14,15 @@
   - Consolidated Liabilities Balance Sheet
   - Consolidated Cash Flow Statement
 
-  With the data contained in these documents, it is possible to analyze the financial health of any company listed on the Brazilian stock exchange and thus carry out a quality valuation from a reliable source.
+  With the .csv data contained in these documents, it is possible to analyze the financial health of any company listed on the Brazilian stock exchange and thus carry out a quality valuation from a reliable source.
+
+## Output
+
+The output of this code will be 4 csv files:
+  - dfp_cia_aberta_BPA_con_2018-2022
+  - dfp_cia_aberta_BPA_con_2018-2022
+  - dfp_cia_aberta_DRE_con_2018-2022
+  - dfp_cia_aberta_DFC_MI_con_2018-2022
 
 ## Disclosure
 
